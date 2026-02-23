@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+sentencepiece
+pypdf
+python-docx
+python-pptx
+pytesseract
+openai-whisper
+Pillow
